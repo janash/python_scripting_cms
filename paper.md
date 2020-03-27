@@ -21,7 +21,7 @@ date: 27 March 2020
 bibliography: paper.bib
 ---
 
-## Summary
+# Summary
 
 Computational molecular science (CMS) is a field which encompasses a number of disciplines including computational chemistry, physics, materials science, and chemical engineering. In order for students to successfully contribute to this field, they must not only build understanding of theoretical aspects of their research, they must also have relevant computer skills including use of the terminal and scripting and programming. We have prepared this module focusing on introducing students to Python programming using Anaconda[@Anaconda Software Distribution] and the Jupyter notebook[@Kluyver:2016aa], with applications relevant to computational molecular sciences.  The workshop teaches practical skills that enable a student to immediately participate in meaningful research. The materials can be presented in a live 1-2 day workshop, or students can work through the lessons online, at their own pace.  The target audience for the materials are undergraduate or other early career students who have limited prior programming experience, and are designed to be accessible to those with no programming experience.   
 
@@ -33,10 +33,11 @@ After these basics, the workshop introduces the concept of functions and writing
 
 This workshop was developed by the Molecular Sciences Software Institute (MolSSI), as part of its mission to enhance software, education, and training in the computational molecular sciences.  MolSSI works to improve software practices in CMS, and this workshop gives a light introduction to several topics we advocate as best practices (version control, testing, and documentation). MolSSI's educational mission builds on and uses strategies from the work of Software Carpentry and Data Carpentry.  
 
-## Statement of Need
+# Statement of Need
+
 Within chemistry, and many other fields related to CMS, the amount of structured programming training students receive as part of their undergraduate education varies widely. Students may have a stand-alone programming course or no instruction at all.  Further, most chemists, even computational chemists who use programming regularly in their research, are rarely trained on teaching programming and often lack resources to provide students this type of training.  Thus, most programming training for chemists is ad-hoc, through interactions with mentors and research advisors, or self-taught by learning what they need to know to solve problems in research.  The Molecular Sciences Software Institute aims to address this problem by providing resources, training, and workshops to teach students best practices in software development.  This workshops introduces concepts related to Python programming to provide a foundation for software best practices advocated by MolSSI for larger software projects.
 
-## Learning Objectives and Contents
+# Learning Objectives and Contents
 
 - **Introduction** This lesson introduces python programming syntax and control structures like assigning variables, arrays, for loops, and logic.  Data types and recasting are discussed.  
 
@@ -54,11 +55,11 @@ Within chemistry, and many other fields related to CMS, the amount of structured
 
 - **Version Control and Sharing Code** - This lesson gives an overview of version control using git and hosting code on GitHub.
 
-## Sample Teaching Schedule
+# Sample Teaching Schedule
 
-### 1.5 Day Workshop
+## 1.5 Day Workshop
 
-#### Day 1
+### Day 1
 
 | Time              |  Topic                                |
 |-------------------|---------------------------------------|
@@ -70,7 +71,7 @@ Within chemistry, and many other fields related to CMS, the amount of structured
 3:45 pm - 4:45 pm 	| Working with Tabular Data
 4:45 pm - 5:00 pm   | Introduce homework assignment
 
-#### Day 2
+### Day 2
 | Time              |  Topic                                |
 |-------------------|---------------------------------------|
 9:00 am - 9:45 am 	| Homework Solution				
@@ -85,7 +86,7 @@ Within chemistry, and many other fields related to CMS, the amount of structured
 4:30 pm - 5:00 pm	| Questions and Feedback
 
 
-## Acknowledgements
+# Acknowledgements
 This work was supported by The Molecular Sciences Software Institute under NSF grant ACI-1547580.
 
-## References
+# References
