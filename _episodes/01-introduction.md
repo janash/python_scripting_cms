@@ -15,7 +15,7 @@ keypoints:
 - "Indentation is very important in `for` loops and `if` statements.  Don't forget the `:` and to indent the items in the loop."
 ---
 ## Getting Started
-Python is a computer programming language that has become ubiquitous in scientific programming.  Our initial lessons will run python *interactively* through a python interpreter. We will first use a Jupyter notebook.  The [setup] page should have provided information
+Python is a computer programming language that has become ubiquitous in scientific programming!!  Our initial lessons will run python *interactively* through a python interpreter. We will first use a Jupyter notebook.  The [setup] page should have provided information
 on how to install and start a Jupyter notebook.  Everything included in a code block is something you could type into your python interpreter and evaluate.
 
 ### Setting up your Jupyter notebooks
@@ -47,9 +47,9 @@ Now that our notebook is set-up, we're ready to start learning some Python!
 
 Any python interpreter can work just like a calculator.  This is not very useful. Type the following into the next cell of your Jupyter notebook.
 
-```
+~~~
 3 + 7
-```
+~~~
 {: .language-python}
 
 ```
